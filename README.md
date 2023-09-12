@@ -1,4 +1,4 @@
-# Mango Leaf Disease_Image_classifier
+# Mango Leaf Disease classifier
 
 Implemented image classifier model using Machine learning models such as Convolution Neural Network (CNN),Gausian Naive Bayes, kNN Classifier, Random Forest Classifier and Decision Tree Classifier.
 
